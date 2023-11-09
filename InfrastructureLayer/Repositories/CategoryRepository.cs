@@ -3,6 +3,7 @@ using DomainLayer.Entities;
 using InfrastructureLayer.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using InfrastructureLayer.Common.Repositories;
 
 namespace InfrastructureLayer.Repositories
 {

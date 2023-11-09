@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace DomainLayer.ViewModels
+namespace ApplicationLayer.ViewModels
 {
 	public class AddProductFormViewModel
 	{

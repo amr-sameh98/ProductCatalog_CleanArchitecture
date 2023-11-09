@@ -1,5 +1,6 @@
 ﻿using DomainLayer.Entities;
-using DomainLayer.ViewModels;
+using ApplicationLayer.ViewModels;
+using ApplicationLayer.Common.Interfaces;
 
 namespace ApplicationLayer.Interfaces
 {

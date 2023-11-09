@@ -1,7 +1,7 @@
-﻿using ApplicationLayer.Interfaces;
+﻿using ApplicationLayer.Common.Interfaces;
 using InfrastructureLayer.Data;
 
-namespace InfrastructureLayer.Repositories
+namespace InfrastructureLayer.Common.Repositories
 {
 	public class BaseRepository<T> : IBaseRepository<T> where T : class
 	{

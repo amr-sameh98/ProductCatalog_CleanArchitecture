@@ -1,4 +1,5 @@
-﻿namespace DomainLayer.Entities
+﻿using DomainLayer.Common.Entities;
+namespace DomainLayer.Entities
 {
 	public class Category : BaseEntity
 	{

@@ -1,5 +1,5 @@
 ﻿using ApplicationLayer;
-using DomainLayer.ViewModels;
+using ApplicationLayer.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 

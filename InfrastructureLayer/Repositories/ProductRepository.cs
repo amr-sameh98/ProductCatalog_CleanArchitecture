@@ -1,8 +1,11 @@
 ﻿using ApplicationLayer.Interfaces;
 using DomainLayer.Entities;
-using DomainLayer.ViewModels;
+using ApplicationLayer.ViewModels;
 using InfrastructureLayer.Data;
 using Microsoft.EntityFrameworkCore;
+using InfrastructureLayer.Common.Repositories;
+
+
 
 namespace InfrastructureLayer.Repositories
 {

@@ -1,4 +1,4 @@
-﻿namespace DomainLayer.Entities
+﻿namespace DomainLayer.Common.Entities
 {
 	public class BaseEntity
 	{
