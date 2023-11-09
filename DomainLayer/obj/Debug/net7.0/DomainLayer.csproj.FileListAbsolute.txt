@@ -1,0 +1,12 @@
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\bin\Debug\net7.0\DomainLayer.deps.json
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\bin\Debug\net7.0\DomainLayer.dll
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\bin\Debug\net7.0\DomainLayer.pdb
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\obj\Debug\net7.0\DomainLayer.csproj.AssemblyReference.cache
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\obj\Debug\net7.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\obj\Debug\net7.0\DomainLayer.AssemblyInfoInputs.cache
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\obj\Debug\net7.0\DomainLayer.AssemblyInfo.cs
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\obj\Debug\net7.0\DomainLayer.csproj.CoreCompileInputs.cache
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\obj\Debug\net7.0\DomainLayer.dll
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\obj\Debug\net7.0\refint\DomainLayer.dll
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\obj\Debug\net7.0\DomainLayer.pdb
+E:\Web\Xceed Task\Clean Architecture\DomainLayer\obj\Debug\net7.0\ref\DomainLayer.dll
